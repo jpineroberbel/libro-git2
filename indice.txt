@@ -4,3 +4,4 @@ Capítulo 3: Gestión de ramas
 Capítulo 4: Repositorios remotos
 Capítulo 5: Conceptos avanzados
 Capitulo 6: cambio en github
+Capitulo 7
